@@ -519,7 +519,7 @@ ul li a{
     color: white; 
     position: relative;
     font-family: 'Lilita One', cursive;
-    background: url('frankfurt.jpg');
+    background: url('../css/frankfurt.jpg');
     background-size: cover;
     background-position-y: 0px;
     background-repeat: no-repeat;
