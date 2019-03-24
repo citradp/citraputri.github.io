@@ -447,7 +447,7 @@ ul li a{
     color: white; 
     position: relative;
     font-family: 'Lilita One', cursive;
-    background: url('../css/ksa.jpg');
+    background: url('../css/KSA.jpg');
     background-size: cover;
     background-position-y: -500px;
     background-repeat: no-repeat;
@@ -595,7 +595,7 @@ ul li a{
     color: white; 
     position: relative;
     font-family: 'Lilita One', cursive;
-    background: url('maldives.jpg');
+    background: url('../css/maldives.jpg');
     background-size: cover;
     background-position-y: -70px;
     background-repeat: no-repeat;
@@ -669,7 +669,7 @@ ul li a{
     color: white; 
     position: relative;
     font-family: 'Lilita One', cursive;
-    background: url('bandung.jpg');
+    background: url('../css/bandung.jpg');
     background-size: cover;
     background-position-y: 0px;
     background-repeat: no-repeat;
